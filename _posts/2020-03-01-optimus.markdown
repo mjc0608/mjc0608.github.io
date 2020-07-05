@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "A Hypervisor for Shared-Memory FPGA Platforms"
+date:   2020-03-01 22:21:59 +00:00
+categories: research
+authors: "<strong>Jiacheng Ma</strong>, Gefei Zuo, Kevin Loughlin, Xiaohe Cheng, Yanqiang Liu, Abel Mulugeta Eneyew, Zhengwei Qi, and Baris Kasikci"
+venue: "International Conference on Architectural Support for Programming Languages and Operating Systems"
+pdf: https://dl.acm.org/doi/abs/10.1145/3373376.3378482
+code: https://github.com/efeslab/optimus-hypervisor
+---
+In this project, we create the first scalable hypervisor for shared-memory FPGA platforms. The hypervisor, called Optimus, supports both spatial multiplexing and temporal multiplexing, and scales linearly until the memory bandwidth is saturated.

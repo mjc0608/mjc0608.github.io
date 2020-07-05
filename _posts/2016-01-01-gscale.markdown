@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "gScale: Scaling up GPU Virtualization with Dynamic Sharing of Graphics Memory Space"
+date:   2016-01-01 22:21:59 +00:00
+categories: research
+authors: "<strong>Leonid Keselman</strong>"
+authors: "Mochi Xue, Kun Tian, Yaozu Dong, <strong>Jiacheng Ma</strong>, Jiajun Wang, Zhengwei Qi, Bingsheng He and Haibing Guan"
+venue: "USENIX Annual Technical Conference"
+pdf: https://www.usenix.org/system/files/conference/atc16/atc16_paper-xue.pdf
+---
+This project scales up the maxium number of vGPUs in Intel GVT-g and minimizes the performance impact. In Haswell architecture, Intel GVT-g only supports 3 guests; gScale extends it for 5x. This work makes GVT-g more consolidated, since more VMs with vGPU can be depolyed on one physical machine.
+

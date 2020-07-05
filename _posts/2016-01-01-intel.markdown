@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Intel Asia-Pacific Research & Development Ltd"
+date:   2016-01-01 22:21:59 +00:00
+categories: industry
+occupation: Software Developer Intern
+duation: "Jul. 2016 - Jun. 2018"
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "gMig: Efficient vGPU Live Migration with Overlapped Software-based Dirty Page Verification"
+date:   2019-10-15 22:21:59 +00:00
+categories: research
+authors: "Qiumin Lu, Xiao Zheng, <strong>Jiacheng Ma</strong>, Yaozu Dong, Zhengwei Qi, Jianguo Yao , Bingsheng He, and Haibing Guan"
+venue: "IEEE Transactions on Parallel & Distributed Systems"
+pdf: https://ieeexplore.ieee.org/document/8869867
+---
+Intel GVT-g is an open-source KVM/Xen based full GPU virtualization solution; however, it lacks the feature of live migration. This work enables live migrating vGPUs for cloud applications such as virtual desktops, cloud gaming farms, cloud transcoding services, etc.

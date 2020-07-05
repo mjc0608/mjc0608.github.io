@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Intel Lab"
+date:   2016-01-01 22:21:59 +00:00
+categories: industry
+occupation: Graduate Technical Intern
+duation: "Jun. 2020 - Aug. 2020"
+---

@@ -82,10 +82,14 @@ h1 {
     -moz-filter: grayscale(100%);
     -ms-filter: grayscale(100%);
     -o-filter: grayscale(100%);
-    
     filter: grayscale(100%);
-	
     filter: gray;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.gray:hover {
+    filter: grayscale(0);
+    -webkit-transition: all .5s ease-in-out;
 }
 
 .one {

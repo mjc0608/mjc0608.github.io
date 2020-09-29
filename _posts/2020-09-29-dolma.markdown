@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "DOLMA: Securing Speculation with the Principle of Transient Non-Observability"
+date:   2021-01-01 22:21:59 +00:00
+categories: research
+authors: "Kevin Loughlin, Ian Neal, <strong>Jiacheng Ma</strong>, Elisa Tsai, Ofir Weisse, Satish Narayanasamy, and Baris Kasikci"
+venue: "USENIX Security, (To Appear)"
+---

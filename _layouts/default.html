@@ -95,6 +95,9 @@
               {{post.authors}},
               <strong>"{{post.title}}"</strong>,
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}.
+              {% if post.toappear %}
+              To Appear.
+              {% endif %}
               {% if post.pdf %}
               <a href="{{post.pdf}}">pdf</a>
               {% endif %}
